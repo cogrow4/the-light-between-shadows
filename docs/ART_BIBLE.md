@@ -9,7 +9,6 @@
 **Inspiration:** "Gris" emotional color storytelling + "Planet of Lana" environmental depth + Celtic architecture + astronomical photography  
 
 ### 1.2 Key Visual Themes
-- **Emotional Color Journey:** Colors that shift with Eilidh's discoveries and emotional state
 - **Layered Depth:** Multiple parallax layers creating atmospheric perspective
 - **Painterly Realism:** Hand-crafted textures that feel both organic and precise
 - **Silhouette Storytelling:** Strong character and architectural silhouettes
@@ -21,13 +20,6 @@
 
 ## 2. Color Palette (Gris + Planet of Lana Inspired)
 
-### 2.1 Emotional Color Progression (Gris-Style)
-**Eilidh's Journey Through Color:**
-- **Curiosity Phase:** Muted grays and soft blues - initial investigation
-- **Discovery Phase:** Warm oranges and golds - pattern recognition
-- **Wonder Phase:** Vibrant purples and magentas - nanite awakening
-- **Truth Phase:** Deep blues and cosmic purples - cosmic revelation
-- **Resolution Phase:** Balanced spectrum - acceptance and responsibility
 
 ### 2.2 Environmental Color Layers (Planet of Lana-Style)
 **Background Layers (Atmospheric/Painterly):**
@@ -152,26 +144,18 @@
 - Celtic features with scholarly bearing
 - Practical clothing suitable for investigation
 - Subtle signs of nanite awakening (faint luminescence)
-- Expressive hands for interaction emphasis
-
+  
 **Clothing Design:**
 - Layered medieval-inspired garments
 - Practical pockets and tool attachments
-- Fabric that responds to environmental lighting
-- Gradual technological enhancement as story progresses
 
 ### 5.2 Animation Principles
 **Movement Style:**
 - Deliberate, thoughtful gestures
 - Careful observation poses
-- Moments of wonder and discovery
-- Increasing confidence as abilities awaken
 
 **Emotional Expression:**
-- Subtle facial animation for internal monologue
-- Body language reflecting discovery excitement
 - Hesitation and determination in equal measure
-- Growing sense of purpose and responsibility
 
 ## 6. User Interface Design
 
@@ -195,12 +179,6 @@
 - Progressive filling as discoveries are made
 - Visual connections between related entries
 
-**Genealogy Interface:**
-- Family tree visualization with Celtic knotwork
-- Color-coded bloodline tracking
-- Interactive node exploration
-- Pattern highlighting for important connections
-
 **Archive Browser:**
 - Holographic display simulation
 - Smooth transitions between document types
@@ -209,7 +187,6 @@
 
 ### 6.3 Iconography
 **Symbol Design:**
-- Celtic knots for navigation and decoration
 - Geometric patterns for technological elements
 - Astronomical symbols for cosmic themes
 - Simplified pictographs for quick recognition
