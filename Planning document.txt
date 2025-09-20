@@ -1,0 +1,72 @@
+# The Light Between Shadows - Master Plan
+
+## Core Vision
+Dark fantasy where humanity's lost colony on Proxima Centauri B has regressed to medieval society. Ancient nanotechnology appears as fading magic. Celtic-inspired names, Rothfuss-style prose, 11-day years under a red dwarf's eternal twilight.
+
+## Synopsis
+
+In Scáthghlenn, where the red star casts its unchanging light, the old certainties are fading. The healers' touch grows weaker with each passing generation. The flame-callers struggle to coax fire from reluctant tinder. The stone-singers find their voices answered less and less by the ancient walls.
+
+Eilidh has spent her life watching these gifts diminish, cataloging the slow death of abilities her grandparents spoke of as commonplace. What others accept as the natural order—magic departing from an unworthy age—she recognizes as something far more troubling. The patterns of loss follow bloodlines, follow families, follow the old knowledge itself as it drains away into silence.
+
+Her investigation into the genealogy records reveals lineages that stretch impossibly far back, and fragments of writings that speak of their world in terms no common language should contain. As the last practitioners of the old arts sicken and fail, Eilidh realizes that someone—or something—is severing the threads that connect her people to whatever they once were.
+
+## Plot Structure
+
+### Act I: The Dying Light (Chapters 1-8)
+Eilidh documents the pattern of ability loss across bloodlines. Investigation of genealogy records reveals impossible lineages. Old Brendan admits his own gifts are fading. Discovery of hidden archives containing star-charts and technical fragments. Realization that the loss is deliberate, not natural.
+
+### Act II: The Deeper Archive (Chapters 9-20)  
+Descent into buried levels beneath Scáthghlenn. Discovery of dormant colony technology. Learning their true origins among the stars. Finding communication arrays designed to contact Earth. Understanding that something has been actively suppressing their heritage. The terrible choice: awaken the sleeping systems and risk everything.
+
+### Act III: The Weight of Stars (Chapters 21-28)
+Establishing contact across four light-years. Earth's response reveals how much time has truly passed. Community fractures over the truth. Eilidh must choose between personal safety and preserving humanity's cosmic heritage. Accepting the role of bridge between human past and uncertain future.
+
+## Character Core
+
+**Eilidh** - Pattern-seeker burdened with dangerous curiosity. Parents present but emotionally distant. Quiet intensity beneath calm exterior. Cannot help but see what others overlook. Feels responsible for preserving what's being lost.
+
+## World Foundation
+
+**Proxima Centauri B** - Tidally locked red dwarf world. 11.2-day orbital cycles. Extreme radiation zones. Human settlements in twilight band between fire and ice. Generations of technological regression. Nanite colonies dormant in human bloodstream—abilities appear as hereditary magic.
+
+**Scáthghlenn** - Last settlement where old bloodlines remain strong. Ancient symbols throughout the architecture. Hidden archives beneath the foundation. Society resembles Shakespearean era with modern English.
+
+## Key Themes
+
+**Loss vs Discovery** - What vanishes when we stop remembering who we were  
+**Isolation** - Personal, communal, planetary separation  
+**Responsibility** - The burden of being the one who sees truth  
+**Heritage** - Connecting to identity across impossible distances  
+**Choice** - Knowledge vs. comfort, progress vs. stability
+
+## Writing Style Goals
+
+**Rothfuss Influence**: Mythic openings, musical prose rhythm, layered meaning, silence as character, frame narratives, concrete details carrying emotional weight.
+
+**Carmody Influence**: Hidden abilities as curse and gift, environmental storytelling, moral complexity, prejudice and tolerance themes, detached intimacy.
+
+## The Magic System (Nanites)
+
+- Hereditary activation of dormant colony technology
+- Abilities include healing, energy manipulation, matter alteration
+- Each use costs life force/connection to the network
+- Overuse leads to permanent disconnection
+- Knowledge of true nature lost to medieval worldview
+- Abilities fading as genetic markers dilute over generations
+
+## Research Elements
+
+- Red dwarf stellar characteristics and planetary effects
+- Realistic interstellar communication delays and methods  
+- Celtic naming conventions and cultural structures
+- Nanotechnology possibilities and limitations
+- Long-term effects of genetic isolation and radiation exposure
+
+## Next Development Phase
+
+1. Expand Old Brendan's role as knowledge-keeper
+2. Design the hidden archive system and what it contains
+3. Create the genealogy puzzle Eilidh will solve
+4. Develop the suppression mechanism causing ability loss
+5. Plan the Earth contact sequence and its implications
